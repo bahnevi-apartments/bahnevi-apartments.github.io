@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html>
+<head id="head">
+  <title>Contact Us</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <link type="text/css" rel="stylesheet"
+        href="../scripts/ui-lightness/jquery-ui.css"/>
+  <link href="../styles/main.css?stylesheetname=RPcssMaster_S0071-Aurora" type="text/css" rel="stylesheet"/>
+  <link type="text/css" href="../styles/fonts/font-awesome.min.css" rel="stylesheet"/>
+  <link type="text/css" href="../styles/fonts/fontello.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="../styles/bootstrap.min.css"/>
+  <link href="../images/favicon/fav-active.png" type="image/x-icon" rel="shortcut icon"/>
+  <link href="../images/favicon/fav-active.png" type="image/x-icon" rel="icon"/>
+  <link href="../styles/fancybox.min.2.css" type="text/css" rel="stylesheet"/>
+  <link rel="stylesheet" href="../styles/old-browsers.css">
+  <link
+    href="../styles/fancybox3_jquery.fancybox.css?stylesheetfile=/CMSScripts/Custom/RPWebParts/fancybox3/jquery.fancybox.css"
+    type="text/css" rel="stylesheet"/>
+  <script src="../scripts/jquery.min.js" type="text/javascript"></script>
+  <script src="../scripts/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="../scripts/Custom/global.min.js" type="text/javascript"></script>
+  <script src="../scripts/jquery.min.js" type="text/javascript"></script>
+  <script src="../scripts/jquery-ui.js" type="text/javascript"></script>
+  <script src="../scripts/jquery-migrate-3.0.0.js" type="text/javascript"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+          integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+          crossorigin="anonymous"></script>
+  <script src="../scripts/jquery.mousewheel.min.js" type="text/javascript"></script>
+  <script src="../scripts/Custom/fancybox3/jquery.fancybox.js" defer="defer" type="text/javascript"></script>
+  <script src="../scripts/Custom/media-viewer.js" defer="defer" type="text/javascript"></script>
+  <link
+    href="../styles/fancybox_jquery.fancybox.css?stylesheetfile=/CMSScripts/Custom/RPWebParts/fancybox/jquery.fancybox.css?v=2.1.5"
+    type="text/css" rel="stylesheet"/>
+  <link
+    href="../styles/fancybox_helpers_jquery.fancybox-buttons.css?stylesheetfile=/CMSScripts/Custom/RPWebParts/fancybox/helpers/jquery.fancybox-buttons.css"
+    type="text/css" rel="stylesheet"/>
+  <link
+    href="../styles/fancybox_helpers_jquery.fancybox-thumbs.css?stylesheetfile=/CMSScripts/Custom/RPWebParts/fancybox/helpers/jquery.fancybox-thumbs.css"
+    type="text/css" rel="stylesheet"/>
+  <script src="../scripts/Custom/fancybox/jquery.fancybox8cbb.js?v=2.1.5" defer="defer"
+          type="text/javascript"></script>
+  <script src="../scripts/Custom/fancybox/helpers/jquery.fancybox-thumbs.js" defer="defer"
+          type="text/javascript"></script>
+  <script src="../scripts/Custom/fancybox/helpers/jquery.fancybox-buttons.js" defer="defer"
+          type="text/javascript"></script>
+  <script src="../scripts/Custom/audio.js"></script>
+</head>
+
+<body onload="startTime()" class="LTR ENUS ContentBody">
+
+<div id="oldBrowserModal" style="display: none;">
+  <div class="oB-dialog">
+    <div class="oB-content">
+      <div class="oB-header">
+        <h4>For the best website experience, please update your browser</h4>
+      </div>
+      <div class="oB-body">
+        <p>Just click on the icons to get to the download page</p>
+        <div class="browserSelect">
+          <div class="browserIconContainer" id="firefoxTab">
+            <div class="browserColumn">
+              <a class="browserLink" href="https://www.mozilla.org/en-US/firefox/new/?v=1" target="_blank">
+                <div class="browserImage"><img src=""/></div>
+                <div class="browserName">Firefox</div>
+              </a>
+            </div>
+          </div>
+          <div class="browserIconContainer" id="chromeTab">
+            <div class="browserColumn">
+              <a class="browserLink" href="https://www.google.com/chrome/browser/desktop/" target="_blank">
+                <div class="browserImage"><img src=" "/></div>
+                <div class="browserName">Chrome</div>
+              </a>
+            </div>
+          </div>
+          <div class="browserIconContainer" id="safariTab">
+            <div class="browserColumn">
+              <a class="browserLink" href="https://support.apple.com/downloads/safari" target="_blank">
+                <div class="browserImage"><img src=" "/></div>
+                <div class="browserName">Safari</div>
+              </a>
+            </div>
+          </div>
+          <div class="browserIconContainer" id="explorerTab">
+            <div class="browserColumn">
+              <a class="browserLink" href="https://www.microsoft.com/en-us/download/internet-explorer.aspx"
+                 target="_blank">
+                <div class="browserImage"><img src=" "/></div>
+                <div class="browserName">Internet Explorer 11</div>
+              </a>
+            </div>
+          </div>
+          <div class="browserIconContainer" id="edgeTab">
+            <div class="browserColumn">
+              <a class="browserLink" href="https://www.microsoft.com/en-us/windows/microsoft-edge#0QiY0Omq3i5Z0krF.97"
+                 target="_blank">
+                <div class="browserImage"><img src="  "/></div>
+                <div class="browserName">Edge</div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button id="closeBrowserModalButton" type="button">Close Window</button>
+      <div class="oB-footer">
+        <p>By closing this window you acknowledge that your experience on this website may be degraded</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<header class="header">
+  <div class="top-spacer"></div>
+  <div class="header-contents">
+    <div class="header-top-bar">
+      <div class="container">
+        <div class="row">
+          <div class="top-address top-link">
+            <a href="basanovich.html" target="_self" class="">
+              <div class=" tooltip2">
+                <div class="span-hover">
+                  <span class="hidden-small">Apartment 1 - </span>Basanovich
+                </div>
+                <span class="tooltiptext">Not Available</span>
+              </div>
+            </a>
+          </div>
+          <div class="top-CTA1 top-link">
+            <a href="madara.html" target="_self" class="">
+              <div class="tooltip2">
+                <div class="span-hover">
+                  <span class="hidden-small">Apartment 2 &ensp; - </span> &ensp; Madara &ensp;
+                </div>
+                <span class="tooltiptext-available">Available</span>
+              </div>
+            </a>
+          </div>
+          <div class="header-chat top-link">
+            <div id="p_lt_zoneHeaderTop_LiveChatV1_pnlLiveChat" class="live-chat-container">
+              <a id="_lpChatBtn" href="savaradulov.html">
+                <div class="tooltip2">
+                  <div class="span-hover">
+                    <span class="hidden-small">Apartment 3 - </span>Sava Radulov
+                  </div>
+                  <span class="tooltiptext">Not Available</span>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="top-CTA2 top-link">
+            <a href="nikolaevich.html" target="_self" class="">
+              <div class="tooltip2">
+                <div class="span-hover">
+                  <span class="hidden-small">Apartment 4 - </span>Nikolaevich
+                </div>
+                <span class="tooltiptext">Not Available</span>
+              </div>
+            </a></div>
+          <div class="header-phone top-link">
+            <a class="seo-number" href="savaradulov2.html">
+              <div class="tooltip2">
+                <div class="span-hover">
+                  <span class="hidden-small">Apartment 5 - </span>Sava Radulov (2)
+                </div>
+                <span class="tooltiptext">Not Available</span>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main-menu-container">
+      <div id="menu-fly-out">
+        <div class="menu-fly-out-container">
+          <div class="menu-left">
+            <div class="cta-button close-button">
+              <a type="button" data-toggle="toggle" data-target=".main-menu-container">Close
+                <em class="fa fa-times" aria-hidden="true"></em></a>
+            </div>
+            <ul class="menuElem">
+              <li style=""><a href="index.html" style="">Home</a></li>
+              <li class="gallery" style=""><a href="gallery.html" style="">Gallery</a></li>
+              <li class="amenities" style=""><a href="amenities.html" style="">Amenities</a></li>
+              <li class="active features" style=""><a href="#" style="">Features</a></li>
+              <li class="" style=""><a href="cancellations.html" style="">Cancellations</a></li>
+              <li class="" style=""><a href="hosts.html" style="">Hosts</a></li>
+              <li class="" style=""><a href="cancellations.html" style="">House Rules</a></li>
+              <li class="floor-plans" style=""><a href="#" style="">Floor plans</a></li>
+              <li class="location" style=""><a href="#" style="">Location</a></li>
+              <li class="residents" style=""><a href="#" style="">Residents</a></li>
+              <li class="contact" style=""><a href="contact.html" style="">Contact Us</a></li>
+            </ul>
+            <div class="menu-CTAs">
+              <div class="cta-button">
+                <a href="#" target="_self">
+                  Area <br> Attractions
+                  <em class="fa fa-long-arrow-right" aria-hidden="true"></em>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+    <div id="specials-fly-out" class="collapse">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8">
+            <h4 class="specials-header"></h4>
+          </div>
+          <div id="specials-button-column" class="col-sm-4">
+            <div class="cta-button">
+              <a>
+                <em class="fa fa-long-arrow-right" aria-hidden="true"></em>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-main">
+      <div class="container">
+        <div class="menu-button">
+          <a type="button" data-toggle="toggle" data-target=".main-menu-container">
+            <img src="../images/misc/menu-three-horizontal-lines-symbol.png" alt="">
+            <span class="hidden-xs">MENU</span></a>
+        </div>
+        <div class="header-FP-Link">
+          <span id="date"></span>
+          <p id="txt"></p>
+        </div>
+        <audio loop hidden id="player">
+          <source src="../audio/Ignite.mp3" type="audio/ogg">
+          <source src="../audio/Ignite.mp3" type="audio/mpeg">
+          Your browser does not support the audio tag.
+        </audio>
+        <div class="music-stop">
+          <svg class="play" onclick="mute()" style="width: 40px; height: 40px; position: absolute; display: none; text-align: unset"
+               xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>ON</title>
+            <g id="Capa_2" data-name="Capa 2">
+              <g id="Capa_1-2" data-name="Capa 1">
+                <circle cx="25" cy="25" r="25" style="fill:#fff;opacity:0.1;isolation:isolate"></circle>
+                <path
+                  d="M24.33,32.38l-5.67-4.74H15.17a.75.75,0,0,1-.75-.76v-3.8a.75.75,0,0,1,.75-.75h3.49l5.67-4.69a.43.43,0,0,1,.6.05h0A.37.37,0,0,1,25,18v14.1a.42.42,0,0,1-.44.41A.49.49,0,0,1,24.33,32.38Z"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10"></path>
+                <path class="fade1" d="M32.15,17.42A13.06,13.06,0,0,1,34.56,25a12.44,12.44,0,0,1-2.49,7.52"
+                      style="fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10"></path>
+                <path class="fade2" d="M28.66,20.17a7.89,7.89,0,0,1,.06,9.55"
+                      style="fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10"></path>
+              </g>
+            </g>
+          </svg>
+          <svg class="mute" onclick="mute()" style="width: 40px;height: 40px;" xmlns="http://www.w3.org/2000/svg"
+               viewBox="0 0 50 50"><title>OFF</title>
+            <g id="Capa_2" data-name="Capa 2">
+              <g id="Capa_1-2" data-name="Capa 1">
+                <circle cx="25" cy="25" r="25" style="fill:#fff;opacity:0.1;isolation:isolate"></circle>
+                <path
+                  d="M25.1,32.38l-5.66-4.74h-3.5a.8.8,0,0,1-.75-.76v-3.8a.79.79,0,0,1,.75-.75h3.5l5.67-4.69a.43.43,0,0,1,.6.05h0a.38.38,0,0,1,.1.27v14.1a.42.42,0,0,1-.44.41h0A.45.45,0,0,1,25.1,32.38Z"
+                  style="fill:none;stroke:#fff;stroke-miterlimit:10"></path>
+                <line x1="29.92" y1="22.5" x2="34.81" y2="27.39"
+                      style="fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10"></line>
+                <line x1="34.81" y1="22.5" x2="29.92" y2="27.39"
+                      style="fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10"></line>
+              </g>
+            </g>
+          </svg>
+
+        </div>
+        <div id="propertyLogo" class="hidden-xs">
+          <a href="index.html" class="header-rent">CONTACT US</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="page-placeholder-container">
+  <div class="header-spacer"></div>
+  <div class="page-contact" onselectstart="return false">
+    <div class="container inner-page-top">
+      <h4 class="page-title">FEEL FREE TO CONTACT US ANYTIME</h4>
+      <div id="shortblurcontact" class="shortblurcontact-text">
+      </div>
+    </div>
+    <div class="inner-page-background" id="contact-background">
+      <div class="inner-content contact-main">
+      </div>
+      <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-3" id="contact-us-left">
+              <h6>WE'D <span><i class="icon-heart"></i></span> TO HELP </h6>
+              <div class="verticalLine">
+                <p>Address</p>
+                <p>City</p>
+                <p>Phone</p>
+              </div>
+              <div>
+                <p> Chataldja</p>
+                <p> Varna</p>
+                <p>&nbsp;0899 196 270</p>
+              </div>
+              <div class="spacer"></div>
+              <div id="" class="hidden-xs hidden-sm hidden-md">
+                <div class="oh-overlay" style=""></div>
+                <div class="">
+                  <a class=""></a>
+                  <div class="" style="display:none;">
+                    <div class="oh-header">
+                      <div class="">
+                        Office Hours:
+                      </div>
+                      <div class="oh-button-close">&times;</div>
+                    </div>
+                    <div class="">
+                      <ul class="office-hours-list">
+                        <li>Monday: 9:00AM to 6:00PM</li>
+                        <li>Tuesday: 9:00AM to 6:00PM</li>
+                        <li>Wednesday: 9:00AM to 6:00PM</li>
+                        <li>Thursday: 9:00AM to 6:00PM</li>
+                        <li>Friday: 9:00AM to 6:00PM</li>
+                        <li>Saturday: 10:00AM to 5:00PM</li>
+                        <li>Sunday: 1:00PM to 5:00PM</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-8" id="contact-right">
+              <div class="">
+                <div class="contact-us-enhanced">
+                  <div id="contactUsEnhancedContainer">
+                    <div class="row">
+                      <input name="pid" type="hidden" id="pid"/>
+                      <input name="lcid" type="hidden" id="lcid"/>
+                      <input name="cid" type="hidden" id="cid"/>
+                      <h5 style="text-align: center; margin: 20px 0 50px 0">contact us </h5>
+                      <div class="col-md-6">
+                        <div class="form-group required-group" id="firstNameDiv"><input type="text" id="firstName"
+                                                                                        class="form-control"
+                                                                                        placeholder="First Name"
+                                                                                        aria-label="first name"
+                                                                                        name="firstname"/>
+                        </div>
+                        <div class="form-group required-group" id="lastNameDiv"><input type="text" id="lastName"
+                                                                                       class="form-control"
+                                                                                       placeholder="Last Name"
+                                                                                       aria-label="last name"
+                                                                                       name="lastname"/>
+                        </div>
+                        <div class="form-group" id="addressDiv"><input type="text" id="address" class="form-control"
+                                                                       placeholder="Address" aria-label="address"
+                                                                       name="address"/>
+                        </div>
+                        <div class="form-group" id="cityDiv"><input type="text" id="city" class="form-control"
+                                                                    placeholder="City" aria-label="city" name="city"/>
+                        </div>
+                        <div class="row">
+                          <div class="form-group col-xs-6" id="stateDiv">
+                            <select id="state" class="form-control" aria-label="state" title="" name="state">
+                              <option value="">-Select City-</option>
+                              <option value="SF">Sofia</option>
+                              <option value="VN">Varna</option>
+                              <option value="PL">Plovdiv</option>
+                              <option value="BO">Bourgas</option>
+                              <option value="SZ">Stara Zagora</option>
+                              <option value="RS">Ruse</option>
+                              <option value="OT">Other</option>
+                            </select>
+                          </div>
+                          <div class="form-group col-xs-6" id="zipDiv">
+                            <input type="text" id="zip" class="form-control" maxlength="10" placeholder="Zip"
+                                   aria-label="zip code" name="zip"/>
+                          </div>
+                        </div>
+                        <div class="form-group" id="phoneDiv">
+                          <input type="text" id="phone" class="form-control" placeholder="Phone"
+                                 aria-label="phone number" name="phone"/>
+                        </div>
+                        <div class="form-group required-group" id="emailDiv">
+                          <input type="email" id="email" class="form-control" placeholder="Email" aria-label="email"
+                                 name="email"/>
+                        </div>
+                        <div class="form-group" id="occupantsDiv">
+                          <input type="text" id="occupants" class="form-control" placeholder="Number of Occupants"
+                                 aria-label="number of occupants" name="occupants">
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-group required-group" id="moveDateDiv">
+                          <input type="text" class="form-control" placeholder="Move-in Date"
+                                 aria-label="move in date" name="movedate" readonly="readonly" id="datepicker"/>
+                        </div>
+                        <div class="form-group" id="unitTypeDiv">
+                          <select id="unitType" class="form-control" aria-label="unit type" name="bedbathid" title="">
+                            <option value="">-Select Unit Type-</option>
+                            <option value="193" class="text">1 Bed /1 Bath</option>
+                            <option value="195" class="text">2 Bed /1 Bath</option>
+                            <option value="196" class="text">2 Bed /2 Bath</option>
+                          </select>
+                        </div>
+                        <div class="form-group" id="usersourceDiv">
+                          <label for="usersource"></label>
+                          <select class="form-control" id="usersource" name="usersource">
+                            <option value="">-How did you hear about us?-</option>
+                            <option value="S000000033">Apartment Finder Blue Book</option>
+                            <option value="S000000036">Apartment Guide</option>
+                            <option value="S000000034">Apartment Map</option>
+                            <option value="S000000041">ApartmentFinder.com</option>
+                            <option value="S000000003">ApartmentGuide.com</option>
+                            <option value="S000000011">Apartmentlinks.com</option>
+                            <option value="S000000004">ApartmentMatching.com</option>
+                            <option value="S000000042">ApartmentRatings.com</option>
+                            <option value="S000000005">Apartments.com</option>
+                            <option value="S000000006">ApartmentsNationwide.com</option>
+                            <option value="S000000050">ApartmentsPlus.com</option>
+                            <option value="S000000019">Billboard</option>
+                            <option value="S000000020">Brochure/Flyer</option>
+                            <option value="S000000043">CitySearch.com</option>
+                            <option value="S000000044">CraigsList.com</option>
+                            <option value="S000000027">Current resident</option>
+                            <option value="S000000021">Drive by</option>
+                            <option value="S000000007">EasyRent.com</option>
+                            <option value="S000000035">For Rent Magazine</option>
+                            <option value="S000000008">ForRent.com</option>
+                            <option value="S000000040">Google.com</option>
+                            <option value="S000000002">LivingChoices.com</option>
+                            <option value="S000000069">Local Line Rollover</option>
+                            <option value="S000000016">Local Newspaper</option>
+                            <option value="S000000017">Local Newspaper II</option>
+                            <option value="S000000015">Locator Service</option>
+                            <option value="S000000049">Move.com</option>
+                            <option value="S000000045">MoveForFree.com</option>
+                            <option value="S000000039">MyNewPlace.com</option>
+                            <option value="S000000018">National Newspaper</option>
+                            <option value="S000000026">Other</option>
+                            <option value="S000000031">Other OneSite property</option>
+                            <option value="S000000032">Other property</option>
+                            <option value="S000000037">Other publication</option>
+                            <option value="S000000014">Other site</option>
+                            <option value="S000000028">Preferred employer program</option>
+                            <option value="S000000029">Prior resident</option>
+                            <option value="S000000001">Property web site</option>
+                            <option value="S000000025">Radio Advertising</option>
+                            <option value="S000000030">Referral companies/merchants</option>
+                            <option value="S000000012">Rent.com</option>
+                            <option value="S000000010">Rentals.com</option>
+                            <option value="S000000013">RentAndMove.com</option>
+                            <option value="S000000046">RentClicks.com</option>
+                            <option value="S000000009">RentNet.com</option>
+                            <option value="S000000023">Sign</option>
+                            <option value="S000000024">TV Advertising</option>
+                            <option value="S000000047">UMoveFree.com</option>
+                            <option value="S000000038">Unknown/Would not give</option>
+                            <option value="S000000048">Yahoo.com</option>
+                            <option value="S000000022">Yellow pages</option>
+                          </select>
+                        </div>
+                        <div class="form-group" id="petsDiv">
+                          <select id="pets" class="form-control" aria-label="do you have pets" name="pets" title="">
+                            <option value="">-Do you have pets?-</option>
+                            <option>Yes</option>
+                            <option>No</option>
+                          </select>
+                        </div>
+                        <div class="form-group" id="respondDiv">
+                          <fieldset>
+                            <legend>Contact Me By:</legend>
+                            <div class="respondRadios">
+                              <input type="radio" id="radio-1" name="radio-1"/><label for="radio-1"
+                                                                                                 class="radio-label">Phone</label>
+                              <input type="radio" id="radio-2" name="radio-1"/><label for="radio-2"
+                                                                                                 class="radio-label">Email</label>
+                            </div>
+                          </fieldset>
+                        </div>
+                        <div class="form-group" id="bestdayDiv">
+                          <select id="bestday" class="form-control" aria-label="best day or time to call"
+                                  name="bestday" title="">
+                            <option value="">-Best day/time to call-</option>
+                            <option>Any Time</option>
+                            <option>Weekends</option>
+                            <option>Weekdays</option>
+                          </select>
+                        </div>
+                        <div class="form-group" id="commentsDiv">
+                          <textarea id="comments" class="form-control" placeholder="Comments" aria-label="comments"
+                                    name="msg" rows="10"></textarea>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="contact-us-float-input-div">
+                      <label style="display:none;">Do not fill out this input form, it is for bot control
+                        purposes only.</label>
+                    </div>
+                    <div id="requiredNotation"><span></span> required field</div>
+                    <div class="submit-button">
+                      <button type="button" name="btnEnhSubmit" class="btnEnhSubmit">Submit</button>
+                    </div>
+                    <div>
+                      <p id="lblError" class="error-msg"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<footer class="spacer clear">
+  <a href="#" id="scroll" style="display: none;"><span></span></a>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3">
+        <div id="footerLogo1" class="footer-logo">
+          <div>
+            <img title="Bahnevi Apartments Varna" src="../images/favicon/fav-active.png"
+                 alt="" style="border-width:0;"/>
+          </div>
+        </div>
+        <div id="footerLogo2" class="footer-logo">
+          <a href="index.html">Bahnevi Apartments</a>
+        </div>
+      </div>
+      <div class="col-sm-3 col-xs-4">
+        <h6>Varna Links </h6>
+        <ul class="menuEle">
+          <li style=""><a href="https://www.varna.bg" target="_blank" style="">Municipality - Varna</a></li>
+          <li class="gallery" style=""><a href="https://www.varna-airport.bg" target="_blank" style="">Varna Airport</a>
+          </li>
+          <li class="active features" style=""><a href="https://www.varnatraffic.com/en" target="_blank" style="">Varna
+            Traffic</a></li>
+          <li class="" style=""><a href="http://visit.varna.bg/en/attractions.html" target="_blank" style="">Varna
+            Attractions</a></li>
+          <li class="" style=""><a href="https://www.thecrazytourist.com/15-best-things-varna-bulgaria/" target="_blank"
+                                   style="">15 Best things to do in Varna</a></li>
+          <li class="" style=""><a
+            href="https://www.google.bg/maps/search/varna+restaurants/@43.209257,27.922125,15z/data=!3m1!4b1"
+            target="_blank" style="">Varna Top Restaurants</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-2 col-xs-4"><h6>Menu</h6>
+        <ul class="menuEle">
+          <li style=""><a href="index.html" style="">Home</a></li>
+          <li class="gallery" style=""><a href="gallery.html" style="">Gallery</a></li>
+          <li class="active features" style=""><a href="#" style="">Features</a></li>
+          <li class="" style=""><a href="cancellations.html" style="">Cancellations</a></li>
+          <li class="" style=""><a href="hosts.html" style="">Hosts</a></li>
+          <li class="" style=""><a href="cancellations.html" style="">House Rules</a></li>
+          <li class="floor-plans" style=""><a href="floor-plans.html" style="">Floor plans</a></li>
+          <li class="location" style=""><a href="#" style="">Location</a></li>
+          <li class="residents" style=""><a href="#" style="">Residents</a></li>
+          <li class="contact" style=""><a href="contact.html" style="">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4 col-xs-4">
+        <h6>Follow Us On</h6>
+        <div class="social_media">
+          <a href="http://www.facebook.com/" class="facebook" title="" target="_blank"
+             onclick="f_analyticsSendEvent('social', 'click-facebook-icon', 'http://www.facebook.com/')" role="button"
+             aria-label="facebook">
+            <em class="sicon-facebook" aria-hidden="true"></em>
+          </a>
+          <a href="http://www.instagram.com/" class="instagram" title="" target="_blank"
+             onclick="f_analyticsSendEvent('social', 'click-instagram-icon', 'http://www.instagram.com/')" role="button"
+             aria-label="instagram">
+            <em class="sicon-instagram" aria-hidden="true"></em>
+          </a>
+          <a href="http://www.google.com/" class="google" title="" target="_blank"
+             onclick="f_analyticsSendEvent('social', 'click-google-icon', 'http://www.google.com/')" role="button"
+             aria-label="google">
+            <em class="sicon-google" aria-hidden="true"></em>
+          </a>
+        </div>
+        <div class="footerCopyright">Copyright &copy; 2019 Bahnevi</div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script> $(document).ready(function () {
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            $('#scroll').fadeIn();
+        } else {
+            $('#scroll').fadeOut();
+        }
+    });
+    $('#scroll').click(function () {
+        $("html, body").animate({scrollTop: 0}, 600);
+        return false;
+    });
+});
+</script>
+
+<script>
+    var d = new Date();
+    let dateClock = d.getDate();
+    let monthClock = d.getMonth();
+    let yearClock = d.getFullYear();
+    const weekday = new Array(7);
+    weekday[0] = "Sunday";
+    weekday[1] = "Monday";
+    weekday[2] = "Tuesday";
+    weekday[3] = "Wednesday";
+    weekday[4] = "Thursday";
+    weekday[5] = "Friday";
+    weekday[6] = "Saturday";
+
+    const monthNames = ["January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December"
+    ];
+    document.getElementById("date").innerHTML = `${weekday[d.getDay()]} ${dateClock}   ${monthNames[d.getMonth()]}   ${yearClock}`;
+</script>
+
+<script>
+    function startTime() {
+        var today = new Date();
+        var h = today.getHours();
+        var m = today.getMinutes();
+        var s = today.getSeconds();
+        m = checkTime(m);
+        s = checkTime(s);
+        document.getElementById('txt').innerHTML =
+            h + ":" + m + ":" + s;
+        var t = setTimeout(startTime, 500);
+    }
+
+    function checkTime(i) {
+        if (i < 10) {
+            i = "0" + i
+        }  // add zero in front of numbers < 10
+        return i;
+    }
+
+
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $('#menuElem li.residents a').attr('target', '_blank');
+
+        sizeSpecials();
+
+        $("[data-toggle='toggle']").click(function () {
+            let selector = $(this).data("target");
+            $(selector).toggleClass('in');
+            let selectorClass = $(selector).hasClass('in');
+        });
+
+        let height = $(window).scrollTop();
+
+        $(window).scroll(function () {
+            let height = $(window).scrollTop();
+            let width = $(window).width();
+            if (height === 0) {
+                $('.header').removeClass('narrow');
+                $("#scroll-down").removeClass('faded');
+            }
+            if (height > 0) {
+                $('.header').addClass('narrow');
+                $("#scroll-down").addClass('faded');
+            }
+        });
+
+        $("#scroll-down").click(function () {
+            let width = $(window).width();
+            $("#scroll-down").addClass('faded');
+            if (width > 1199) {
+                let homeScrollPoint = $(".home-section2").offset().top - 100;
+            }
+            else {
+                let homeScrollPoint = $(".home-section2").offset().top - 200;
+            }
+            $('html, body').animate({
+                scrollTop: homeScrollPoint
+            }, 1800, 'easeOutExpo');
+        });
+
+        function sizeSpecials() {
+            let winHeight = $(window).height();
+            let headerHeight = $('.header-top-bar').outerHeight();
+            let specialsHeight = winHeight - headerHeight;
+            $('#specials-fly-out').css('max-height', specialsHeight + 'px');
+        }
+
+        $(window).resize(function () {
+            sizeSpecials();
+        });
+
+        let hideSocialCTA = 'Availability';
+        if (hideSocialCTA !== "") {
+            $('#section4-left-panel a.home-cta-button').css('display', 'inline-block');
+        }
+    });
+</script>
+
+<script>
+    $( function() {
+        $( "#datepicker" ).datepicker();
+    } );
+</script>
+
+</body>
+</html>
