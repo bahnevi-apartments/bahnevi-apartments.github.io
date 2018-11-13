@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a99103ff-746e-4d64-b4f8-d729cb9d8070" name="Default" comment="" />
+    <list default="true" id="a99103ff-746e-4d64-b4f8-d729cb9d8070" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,46 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="logo-2.png" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/img/misc/logo-2.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="logo-4.png" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/img/misc/logo-4.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="logo-main.png" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/img/misc/logo-main.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern_Drak.png" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/img/misc/Pattern_Drak.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern_Light.png" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/img/misc/Pattern_Light.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="profile.png" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/img/misc/profile.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="profile-sauna.png" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/img/misc/profile-sauna.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://E:/CV-better/theme/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="935">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,17 +33,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://E:/CV-better/theme/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14822">
-              <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="85" lean-forward="false" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/CV-better/cv-August/resume/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#ins#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://E:/CV-better/cv-August/resume/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="680">
+              <caret line="112" column="17" lean-forward="false" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#ins#0;n#div#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,11 +135,12 @@
       <dir>E:\MyWebSites\ApartmentsApril</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="E:/main-project/assets/css/owl.carousel.css" />
-        <option value="E:/main-project/assets/css/reset.css" />
         <option value="E:/main-project/assets/css/testimonials.css" />
         <option value="E:/main-project/assets/css/thumbnails.css" />
         <option value="E:/main-project/assets/css/content.css" />
@@ -204,6 +190,8 @@
         <option value="$PROJECT_DIR$/main/amenities.html" />
         <option value="E:/CV-better/theme/css/style.css" />
         <option value="E:/CV-better/theme/index.html" />
+        <option value="E:/CV-better/cv-August/resume/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -222,53 +210,41 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="E:/CV-better/node_modules" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1300" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ApartmentsApril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bahnevi-apartments.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
-            </path>
-            <path>
-              <item name="ApartmentsApril" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="CV-better" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ApartmentsApril" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="CV-better" type="462c0819:PsiDirectoryNode" />
-              <item name="cv-August" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ApartmentsApril" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="CV-better" type="462c0819:PsiDirectoryNode" />
-              <item name="cv-August" type="462c0819:PsiDirectoryNode" />
-              <item name="resume" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ApartmentsApril" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="CV-better" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,27 +302,31 @@
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
+      <envs />
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/test</test-directory>
       <recursive>false</recursive>
     </configuration>
-    <list>
-      <item itemvalue="Mocha.mochaTests" />
-      <item itemvalue="JavaScript Debug.domTraversal.html" />
-      <item itemvalue="Node.js.13.js" />
-      <item itemvalue="Node.js.demo.js" />
-      <item itemvalue="Node.js.demo2.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.mochaTests" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.domTraversal.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.13.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.demo2.js" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.demo.js" />
-        <item itemvalue="JavaScript Debug.domTraversal.html" />
-        <item itemvalue="Node.js.demo2.js" />
-        <item itemvalue="Node.js.13.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.demo.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.domTraversal.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.demo2.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.13.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -417,6 +397,8 @@
       <workItem from="1534483386856" duration="36118000" />
       <workItem from="1534574453574" duration="36366000" />
       <workItem from="1534741884621" duration="2533000" />
+      <workItem from="1542096374600" duration="44000" />
+      <workItem from="1542096432480" duration="642000" />
     </task>
     <servers />
   </component>
@@ -453,7 +435,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="988382000" />
+    <option name="totallyTimeSpent" value="989068000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -468,42 +450,43 @@
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49532712" visible="true" weight="0.18839428" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49841017" weight="0.32949308" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50158983" side_tool="true" weight="0.4170507" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27534562" />
-      <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.50343645" side_tool="true" weight="0.13513513" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49841017" weight="0.26036867" />
-      <window_info id="Favorites" order="2" sideWeight="0.5046729" side_tool="true" weight="0.1963434" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3559908" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.1486175" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19498383" sideWeight="0.49532712" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.49841017" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4170507" sideWeight="0.50158983" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27534562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.13513513" sideWeight="0.50343645" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26036867" sideWeight="0.49841017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1963434" sideWeight="0.5046729" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3559908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1486175" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22496025" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32949308" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27534562" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3559908" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4170507" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27534562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4170507" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22496025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3559908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +497,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
+      <path value="E:" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
@@ -533,15 +516,67 @@
       </breakpoints>
       <option name="time" value="31" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/styles/alertify.css">
+    <entry file="file://E:/CV-better/theme/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816" />
+        <state relative-caret-position="935">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/fancybox.min.1.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://E:/CV-better/theme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="85" lean-forward="false" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/CV-better/cv-August/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/CV-better/theme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/CV-better/theme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="85" lean-forward="false" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/CV-better/cv-August/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/alertify.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -553,208 +588,100 @@
     <entry file="file://$PROJECT_DIR$/scripts/jquery-ui.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-408">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/jquery-migrate-3.0.0.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/jquery.easing.1.3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/comments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/clipboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/alertify.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Custom/time.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/CV-better/theme/error_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146" />
-      </provider>
-    </entry>
-    <entry file="file://E:/CV-better/theme/contact_process.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/prepros-6.config">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://E:/CV-better/theme/error_log" />
     <entry file="file://$PROJECT_DIR$/main/amenities.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-aquarium.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-basket.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-bowl.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-cards.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-chess.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-cooking.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-fishing.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-flying.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-igames.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-photo.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobby-reading.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/hobbies/hobbie-main.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/bahnevi-apartments.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/bg-telefoni.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/coming-soon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/cv-resume.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/exercise-advance.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/exercise-fantastic.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/maistor-varna.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/portfolio/pay-tax-bill.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/certificates/certificate-advance.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/certificates/certificate-js.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/close-button.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/fav-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/logo-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/logo-2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/logo-4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/logo-main.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/Pattern_Drak.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/Pattern_Light.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/profile.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/CV-better/theme/img/misc/profile-sauna.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://E:/CV-better/theme/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="935">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://E:/CV-better/theme/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14822">
-          <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+        <state relative-caret-position="1003">
+          <caret line="59" column="85" lean-forward="false" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://E:/CV-better/cv-August/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="238">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="112" column="17" lean-forward="false" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#div#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
