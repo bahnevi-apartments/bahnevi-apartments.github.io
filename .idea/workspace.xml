@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a99103ff-746e-4d64-b4f8-d729cb9d8070" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -53,8 +52,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="41" column="43" lean-forward="true" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+            <state relative-caret-position="476">
+              <caret line="75" column="51" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -100,11 +99,11 @@
       <find>GlobalResources/BrowserIcons/firefoxLogo.png</find>
       <find>GlobalResources/BrowserIcons/edgeLogo.png</find>
       <find>menu-right</find>
-      <find />
-      <find />
+      <find>OFF 3</find>
+      <find>ON 3</find>
       <find>ON</find>
       <find>TITLE</find>
-      <find />
+      <find>border: 2px</find>
       <find>time</find>
       <find>deve</find>
       <find>COMM</find>
@@ -129,10 +128,10 @@
       <dir>C:\MyWebSites\ApartmentsApril\aurora.cms.myleasestar.com\CMSPages</dir>
       <dir>C:\MyWebSites\ApartmentsApril</dir>
       <dir>E:\CV-better</dir>
-      <dir />
+      <dir>C:\Users\nac\Desktop\BookLibrarySollutionJuly18 (1)</dir>
       <dir>E:\main-project</dir>
       <dir>E:\CV-better\theme</dir>
-      <dir />
+      <dir>C:\Users\nac\Desktop\Prodavachnik-master\-WorkingProdavachnik - Skeleton</dir>
       <dir>E:\MyWebSites\ApartmentsApril\images\radulov</dir>
       <dir>E:\MyWebSites\ApartmentsApril</dir>
     </dirStrings>
@@ -393,7 +392,7 @@
       <workItem from="1534741884621" duration="2533000" />
       <workItem from="1542096374600" duration="44000" />
       <workItem from="1542096432480" duration="2769000" />
-      <workItem from="1551126169097" duration="1420000" />
+      <workItem from="1551126169097" duration="1722000" />
     </task>
     <servers />
   </component>
@@ -430,7 +429,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="992615000" />
+    <option name="totallyTimeSpent" value="992917000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -673,8 +672,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="41" column="43" lean-forward="true" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+        <state relative-caret-position="476">
+          <caret line="75" column="51" selection-start-line="75" selection-start-column="51" selection-end-line="75" selection-end-column="51" />
         </state>
       </provider>
     </entry>
