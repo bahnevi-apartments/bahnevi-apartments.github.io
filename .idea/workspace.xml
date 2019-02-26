@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a99103ff-746e-4d64-b4f8-d729cb9d8070" name="Default" comment="" />
+    <list default="true" id="a99103ff-746e-4d64-b4f8-d729cb9d8070" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/edno.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/edno.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/basanovich.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/basanovich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/madara.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/madara.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/nikolaevich.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/nikolaevich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/savaradulov.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/savaradulov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/savaradulov2.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/savaradulov2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://E:/CV-better/theme/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://E:/CV-better/theme/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,17 +51,88 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="72" column="41" lean-forward="true" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+            <state relative-caret-position="305">
+              <caret line="299" column="16" lean-forward="true" selection-start-line="299" selection-start-column="16" selection-end-line="299" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="2321" column="1" lean-forward="true" selection-start-line="2321" selection-start-column="1" selection-end-line="2321" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="madara.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/madara.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="313" column="26" lean-forward="true" selection-start-line="313" selection-start-column="26" selection-end-line="313" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nikolaevich.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/nikolaevich.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="314" column="19" lean-forward="true" selection-start-line="314" selection-start-column="19" selection-end-line="314" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="savaradulov2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/savaradulov2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="308" column="93" selection-start-line="308" selection-start-column="93" selection-end-line="308" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="savaradulov.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/savaradulov.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="327" column="12" lean-forward="true" selection-start-line="327" selection-start-column="12" selection-end-line="327" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basanovich.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/basanovich.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5423">
+              <caret line="319" column="14" selection-start-line="319" selection-start-column="14" selection-end-line="319" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://E:/main-project/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-680" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -76,13 +148,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>maps</find>
-      <find>basa</find>
-      <find>house</find>
-      <find>cancel</find>
-      <find>ui</find>
-      <find>border-botto</find>
-      <find>wash</find>
       <find>.tabs-content</find>
       <find>grey</find>
       <find>adel</find>
@@ -106,6 +171,13 @@
       <find>deve</find>
       <find>COMM</find>
       <find>script</find>
+      <find>home-section8</find>
+      <find>madara apa</find>
+      <find>welcome</find>
+      <find>welc</find>
+      <find>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;</find>
+      <find>welcom</find>
+      <find>welco</find>
     </findStrings>
     <replaceStrings>
       <replace>===</replace>
@@ -132,6 +204,7 @@
       <dir>C:\Users\nac\Desktop\Prodavachnik-master\-WorkingProdavachnik - Skeleton</dir>
       <dir>E:\MyWebSites\ApartmentsApril\images\radulov</dir>
       <dir>E:\MyWebSites\ApartmentsApril</dir>
+      <dir>E:\bahnevi-apartments.github.io\main</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -174,22 +247,22 @@
         <option value="$PROJECT_DIR$/main/location.html" />
         <option value="$PROJECT_DIR$/scripts/Custom/audio.js" />
         <option value="$PROJECT_DIR$/main/gallery.html" />
-        <option value="$PROJECT_DIR$/main/nikolaevich.html" />
-        <option value="$PROJECT_DIR$/main/savaradulov2.html" />
-        <option value="$PROJECT_DIR$/main/savaradulov.html" />
         <option value="$PROJECT_DIR$/main/index.html" />
         <option value="$PROJECT_DIR$/main/contact.html" />
         <option value="$PROJECT_DIR$/main/hosts.html" />
-        <option value="$PROJECT_DIR$/main/basanovich.html" />
-        <option value="$PROJECT_DIR$/main/madara.html" />
         <option value="$PROJECT_DIR$/scripts/Custom/tab-pills.js" />
         <option value="$PROJECT_DIR$/main/cancellations.html" />
-        <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/scripts/Custom/time.js" />
         <option value="$PROJECT_DIR$/main/amenities.html" />
         <option value="E:/CV-better/theme/css/style.css" />
         <option value="E:/CV-better/theme/index.html" />
         <option value="E:/CV-better/cv-August/resume/index.html" />
+        <option value="$PROJECT_DIR$/main/basanovich.html" />
+        <option value="$PROJECT_DIR$/main/madara.html" />
+        <option value="$PROJECT_DIR$/main/nikolaevich.html" />
+        <option value="$PROJECT_DIR$/main/savaradulov2.html" />
+        <option value="$PROJECT_DIR$/main/savaradulov.html" />
+        <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -223,17 +296,17 @@
           <expand>
             <path>
               <item name="bahnevi-apartments.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
-            </path>
-            <path>
-              <item name="bahnevi-apartments.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
               <item name="bahnevi-apartments.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bahnevi-apartments.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edno" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="main-project" type="462c0819:PsiDirectoryNode" />
+              <item name="bahnevi-apartments.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bahnevi-apartments.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bahnevi-apartments.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -390,7 +463,8 @@
       <workItem from="1534741884621" duration="2533000" />
       <workItem from="1542096374600" duration="44000" />
       <workItem from="1542096432480" duration="2769000" />
-      <workItem from="1551126169097" duration="2763000" />
+      <workItem from="1551126169097" duration="5176000" />
+      <workItem from="1551206938633" duration="2913000" />
     </task>
     <servers />
   </component>
@@ -427,7 +501,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="993958000" />
+    <option name="totallyTimeSpent" value="999284000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -444,9 +518,11 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49532712" visible="true" weight="0.13593005" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49841017" weight="0.32949308" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50158983" side_tool="true" weight="0.4170507" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50158983" side_tool="true" weight="0.41656804" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.1486175" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289941" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27534562" />
       <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.50343645" side_tool="true" weight="0.13513513" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49841017" weight="0.26036867" />
@@ -459,25 +535,24 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.1486175" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27534562" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22496025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32949308" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27534562" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3559908" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.4170507" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -510,6 +585,54 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://E:/CV-better/theme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/CV-better/theme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/CV-better/cv-August/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="68" lean-forward="true" selection-start-line="53" selection-start-column="68" selection-end-line="53" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/basanovich.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="320" column="14" lean-forward="true" selection-start-line="320" selection-start-column="14" selection-end-line="320" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/main-project/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39389">
+          <caret line="2317" column="20" lean-forward="true" selection-start-line="2317" selection-start-column="20" selection-end-line="2317" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://E:/CV-better/theme/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -594,35 +717,10 @@
         <state relative-caret-position="-816" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="3027" column="17" lean-forward="true" selection-start-line="3027" selection-start-column="17" selection-end-line="3027" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/jquery-ui.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-408" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/jquery-migrate-3.0.0.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/jquery.easing.1.3.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/comments.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/clipboard.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Custom/time.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -664,14 +762,73 @@
       </provider>
     </entry>
     <entry file="file://E:/main-project/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/basanovich.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-680" />
+        <state relative-caret-position="5423">
+          <caret line="319" column="14" selection-start-line="319" selection-start-column="14" selection-end-line="319" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/madara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="313" column="26" lean-forward="true" selection-start-line="313" selection-start-column="26" selection-end-line="313" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/nikolaevich.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="314" column="19" lean-forward="true" selection-start-line="314" selection-start-column="19" selection-end-line="314" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/savaradulov2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="308" column="93" selection-start-line="308" selection-start-column="93" selection-end-line="308" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/savaradulov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="327" column="12" lean-forward="true" selection-start-line="327" selection-start-column="12" selection-end-line="327" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="2321" column="1" lean-forward="true" selection-start-line="2321" selection-start-column="1" selection-end-line="2321" selection-end-column="1" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="72" column="41" lean-forward="true" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+        <state relative-caret-position="305">
+          <caret line="299" column="16" lean-forward="true" selection-start-line="299" selection-start-column="16" selection-end-line="299" selection-end-column="16" />
         </state>
       </provider>
     </entry>
